@@ -22,7 +22,7 @@ const Header = () => {
         {/* Logo Here */}
         <div className="flex text-2xl cursor-pointer items-center gap-2">
           <BeakerIcon className="w-7 h-7 text-blue-600" />
-          <span className="font-bold">Inscribe</span>
+          <span className="font-bold">Responsive navbar</span>
         </div>
         {/* menu bar */}
         <div
